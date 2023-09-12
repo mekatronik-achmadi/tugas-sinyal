@@ -19,7 +19,7 @@
 |14| [Farrel](https://github.com/FarrelFasyaWisnugroho) | [Tugas-Sinyal-1](https://github.com/FarrelFasyaWisnugroho/Tugas-Sinyal-1/) | Belum Lengkap, Upload tanpa git-push |
 |15| [Virgi](https://github.com/virgi005) | | |
 |16| [MAkbar](https://github.com/MAkbarMZ) | | |
-|17| [AmmarM](https://github.com/ammarmuzhaffar) | [Tugas-Proses-Sinyal](https://github.com/ammarmuzhaffar/Tugas-Proses-Sinyal-dan-Optimisasi-1) | Upload tanpa git-push |
+|17| [AmmarM](https://github.com/ammarmuzhaffar) | [Tugas-Proses-Sinyal](https://github.com/ammarmuzhaffar/Tugas-Proses-Sinyal-dan-Optimisasi-1) | Belum Lengkap, Upload tanpa git-push |
 |18| [Ferdika](https://github.com/FerdikaPradana) | | |
 |19| [RubyAlfarizi](https://github.com/RubiAlfa) | | |
 |20| [WendyWi](https://github.com/WendyWibowo05) | | |

@@ -8,6 +8,7 @@ You may read through all this guide document or you can just jump into expected 
 - [Guides](https://github.com/mekatronik-achmadi/tugas-sinyal/tree/main#guides)
 	+ [Windows Install](https://github.com/mekatronik-achmadi/tugas-sinyal/tree/main#install-necessary-on-windows)
 	+ [Git ID](https://github.com/mekatronik-achmadi/tugas-sinyal/tree/main#git-id)
+	+ [Github Repository](https://github.com/mekatronik-achmadi/tugas-sinyal/tree/main#github-repository)
 	+ [Github Workflow](https://github.com/mekatronik-achmadi/tugas-sinyal/tree/main#github-workflow)
 ---
 
@@ -26,7 +27,7 @@ Here list of acknowledged and checked work results: [Tables](https://github.com/
 - [Github Registration](https://github.com/mekatronik-achmadi/md_tutorial/blob/master/pelatihan/github_signup.md)
 - [Classic Token](https://github.com/mekatronik-achmadi/md_tutorial/blob/master/electronic/tutorials/github_token.md)
 
-#### Pyhon
+#### Python
 - [Windows Python](https://github.com/mekatronik-achmadi/md_tutorial/blob/master/pelatihan/install_python.md#python-installer)
 - Install required modules:
 
@@ -132,9 +133,17 @@ git push -u origin main
 
 ### A. IPython Console from Spyder showing Name and Registration number
 
-```sh
+```py
 print("Nama: Achmadi")
 print("NRP: 2410100085")
 ```
 
 ![image](images/result0.png)
+
+### B. Plot Result on Spyder which your own Python script run
+
+### C. Python script restrictions
+- Implementing any Signal Processing like Filtering, FFT, Convolution/Modulation, etc.
+- Only use Numpy and Matplotlib modules.
+- Use minimal internal Numpy functions like numpy.fft, numpy.convolve, etc.
+- No verbatim copies from other's work.

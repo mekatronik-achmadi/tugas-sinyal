@@ -7,7 +7,7 @@ You may read through all this guide document or you can just jump into expected 
 - [Result Table](https://github.com/mekatronik-achmadi/tugas-sinyal/tree/main#result-table)
 - [Guides](https://github.com/mekatronik-achmadi/tugas-sinyal/tree/main#guides)
 - [Result Example](https://github.com/mekatronik-achmadi/tugas-sinyal/tree/main#example-result)
-	
+
 ---
 
 ## Result Table
@@ -53,7 +53,7 @@ Python Scipt: https://github.com/mekatronik-achmadi/tugas-sinyal/blob/main/signa
 ### E. Result Restrictions
 - Implementing any Signal Processing like Filtering, FFT, Convolution/Modulation, etc.
 - Only use Numpy and Matplotlib modules.
-- Use minimal internal Numpy functions like numpy.fft, numpy.convolve, etc.
+- Use minimal internal Numpy without functions like numpy.fft, numpy.convolve, etc.
 - No verbatim copies from other's work.
 - Just do the best you can.
 	+ Life is hard.

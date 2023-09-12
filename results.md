@@ -14,6 +14,7 @@
 |9| [Syahrul](https://github.com/Syahrulwhyd) | | |
 |10| [Alfonsus](https://github.com/Alfonsus-Enrico) | | |
 |11| [NadyaP](https://github.com/Nonaminggumerah) | | |
+|12| [Ghazi](https://github.com/gap125) | | |
 
 
 

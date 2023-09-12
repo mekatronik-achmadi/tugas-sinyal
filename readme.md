@@ -110,10 +110,18 @@ git commit -m "pesan catatan"
 
 ![image](images/repo2.png)
 
+**Note:** The red-squared show your current project branch name
+
 Then you can check again:
 
 ```sh
 git status
+```
+
+Then you can send your freezed record to your Github project using command:
+
+```sh
+git push -u origin main
 ```
 
 ---

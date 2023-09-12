@@ -6,7 +6,7 @@ You may read through all this guide document or you can just jump into expected 
 ## Contents
 - [Result Table](https://github.com/mekatronik-achmadi/tugas-sinyal/tree/main#result-table)
 - [Guides](https://github.com/mekatronik-achmadi/tugas-sinyal/tree/main#guides)
-- [Result Example]()
+- [Result Example](https://github.com/mekatronik-achmadi/tugas-sinyal/tree/main#example-result)
 	
 ---
 
@@ -35,7 +35,10 @@ print("NRP: 2410100085")
 
 ### B. Plot Result on Spyder which your own Python script run
 
-### C. Python script restrictions
+### D. Expected Result
+- Readme file for result explanation like this.
+- Both screenshot image like previous **A** and **B** example.
+- Python script screenshot and its URL like previous **C** example.
 - Implementing any Signal Processing like Filtering, FFT, Convolution/Modulation, etc.
 - Only use Numpy and Matplotlib modules.
 - Use minimal internal Numpy functions like numpy.fft, numpy.convolve, etc.

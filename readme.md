@@ -7,11 +7,15 @@ You may read through all this guide document or you can just jump into expected 
 - [Result Table](https://github.com/mekatronik-achmadi/tugas-sinyal/tree/main#result-table)
 - [Guides](https://github.com/mekatronik-achmadi/tugas-sinyal/tree/main#guides)
 	+ [Windows Install](https://github.com/mekatronik-achmadi/tugas-sinyal/tree/main#install-necessary-on-windows)
-	+ []
+	+ [Git ID](https://github.com/mekatronik-achmadi/tugas-sinyal/tree/main#git-id)
+	+ [Github Workflow](https://github.com/mekatronik-achmadi/tugas-sinyal/tree/main#github-workflow)
+---
 
 ## Result Table
 
 Here list of acknowledged and checked work results: [Tables](https://github.com/mekatronik-achmadi/tugas-sinyal/blob/main/results.md).
+
+---
 
 ## Guides
 
@@ -35,6 +39,8 @@ pip install numpy matplotlib spyder
 You can install Notepad++ editor on Markdown Editor (*.md) to edit your README or readme.md file.
 You can download Notepad++ installer [here](https://notepad-plus-plus.org/downloads/).
 
+---
+
 ### Git ID
 
 Copy and paste these commands on Git Bash:
@@ -43,6 +49,8 @@ Copy and paste these commands on Git Bash:
 git config --global user.name "Nama Anda"
 git config --global user.email "email.anda@gmail.com"
 ```
+
+---
 
 ### Github Repository
 
@@ -62,7 +70,13 @@ Now, on your project folder, open Git-Bash there and run this to initiate the fo
 git init
 ```
 
+---
+
 ### Github Workflow
+
+
+
+---
 
 ## Example Result
 

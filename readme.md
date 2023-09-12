@@ -124,7 +124,17 @@ Then you can send your freezed record to your Github project using command:
 git push -u origin main
 ```
 
+**Note:** You need your Github username and either password or access-token.
+
 ---
 
 ## Example Result
 
+### A. IPython Console from Spyder showing Name and Registration number
+
+```sh
+print("Nama: Achmadi")
+print("NRP: 2410100085")
+```
+
+![image](images/result0.png)

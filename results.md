@@ -15,9 +15,11 @@
 |10| [Alfonsus](https://github.com/Alfonsus-Enrico) | | |
 |11| [NadyaP](https://github.com/Nonaminggumerah) | | |
 |12| [Ghazi](https://github.com/gap125) | | |
-
-
-
+|13| [Pradipta](https://github.com/Pradipta07) | | |
+|14| [Farrel](https://github.com/FarrelFasyaWisnugroho) | [Tugas-Sinyal-1](https://github.com/FarrelFasyaWisnugroho/Tugas-Sinyal-1/) | Belum Lengkap, Upload tanpa git-push |
+|15| [Virgi](https://github.com/virgi005) | | |
+|16| [MAkbar](https://github.com/MAkbarMZ) | | |
+|17| [AmmarM](https://github.com/ammarmuzhaffar) | [Tugas-Proses-Sinyal](https://github.com/ammarmuzhaffar/Tugas-Proses-Sinyal-dan-Optimisasi-1) | Upload tanpa git-push |
 
 
 

@@ -20,6 +20,18 @@
 |15| [Virgi](https://github.com/virgi005) | | |
 |16| [MAkbar](https://github.com/MAkbarMZ) | | |
 |17| [AmmarM](https://github.com/ammarmuzhaffar) | [Tugas-Proses-Sinyal](https://github.com/ammarmuzhaffar/Tugas-Proses-Sinyal-dan-Optimisasi-1) | Upload tanpa git-push |
+|18| [Ferdika](https://github.com/FerdikaPradana) | | |
+|19| [RubyAlfarizi](https://github.com/RubiAlfa) | | |
+|20| [WendyWi](https://github.com/WendyWibowo05) | | |
+|21| [MRifan](https://github.com/muhammadrifan2828) | | |
+|22| [RizkiAkbar](https://github.com/RizkiAkbar12) | | |
+|23| [Dhamas](https://github.com/Dhamas1902) | | |
+
+
+
+
+
+
 
 
 

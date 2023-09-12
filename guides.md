@@ -1,10 +1,10 @@
 # Guide Document
 
 ## Contents
-- [Windows Install](https://github.com/mekatronik-achmadi/tugas-sinyal/tree/main#install-necessary-on-windows)
-- [Git ID](https://github.com/mekatronik-achmadi/tugas-sinyal/tree/main#git-id)
-- [Github Repository](https://github.com/mekatronik-achmadi/tugas-sinyal/tree/main#github-repository)
-- [Github Workflow](https://github.com/mekatronik-achmadi/tugas-sinyal/tree/main#github-workflow)
+- [Windows Install](https://github.com/mekatronik-achmadi/tugas-sinyal/blob/main/guides.md#install-necessary-on-windows)
+- [Git ID](https://github.com/mekatronik-achmadi/tugas-sinyal/blob/main/guides.md#git-id)
+- [Github Repository](https://github.com/mekatronik-achmadi/tugas-sinyal/blob/main/guides.md#github-repository)
+- [Github Workflow](https://github.com/mekatronik-achmadi/tugas-sinyal/blob/main/guides.md#github-workflow)
 
 ---
 

@@ -18,7 +18,7 @@ Here list of acknowledged and checked work results: [Tables](https://github.com/
 
 ## Guides
 
-Preparation Guidance can be checked [here]().
+Preparation Guidance can be checked [here](https://github.com/mekatronik-achmadi/tugas-sinyal/blob/main/guides.md).
 
 ---
 

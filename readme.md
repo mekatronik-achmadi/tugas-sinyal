@@ -3,6 +3,10 @@
 This repository is an example for assignment.
 You may read through all this guide document or you can just jump into expected result in this part.
 
+## Result Table
+
+Here list of acknowledged and checked work results: [Tables](https://github.com/mekatronik-achmadi/tugas-sinyal/blob/main/results.md).
+
 ## Guides
 
 ### Install Necessary on Windows
@@ -19,4 +23,11 @@ You may read through all this guide document or you can just jump into expected 
 ```sh
 pip install numpy matplotlib spyder
 ```
+
+#### Markdown Editor
+
+You can install Notepad++ editor on Markdown Editor (*.md) to edit your README or readme.md file.
+You can download Notepad++ installer [here](https://notepad-plus-plus.org/downloads/).
+
+## Example Result
 

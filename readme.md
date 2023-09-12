@@ -64,17 +64,57 @@ Resulting like this:
 
 ![image](images/repo1.png)
 
-Now, on your project folder, open Git-Bash there and run this to initiate the folder as Git folder
+Now, on your project folder, open **Git-Bash** there and run this to initiate the folder as Git folder
 
 ```sh
 git init
 ```
 
+Add your own project repository on your Github as remote, using command
+
+```sh
+git remote add origin https://github.com/nama-akun-anda/nama-repo-anda.git
+```
+
+**Note:** You may add ".git" suffix at the end of your remote URL if not already.
+
 ---
 
 ### Github Workflow
 
+**Note:** This section can be done repeatedly on each project repository on **Git-Bash**
 
+First, check changed or new files using command:
+
+```sh
+git status
+```
+
+Now, you can record your files changes using command:
+
+```sh
+git add *
+```
+
+Then you can check again:
+
+```sh
+git status
+```
+
+Next, you can freeze the record using command:
+
+```sh
+git commit -m "pesan catatan"
+```
+
+![image](images/repo2.png)
+
+Then you can check again:
+
+```sh
+git status
+```
 
 ---
 

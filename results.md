@@ -2,7 +2,7 @@
 
 | No | Github Account | Assignment Repository | Notes/Critics |
 |:--:|:--------------:|:---------------------:|:-------------:|
-|0| [Achmadi](https://github.com/mekatronik-achmadi/) | [Tugas-Sinyal](https://github.com/mekatronik-achmadi/tugas-sinyal) | Example |
+|0| [Achmadi](https://github.com/mekatronik-achmadi/) | [Tugas-Sinyal](https://github.com/mekatronik-achmadi/tugas-sinyal) | Example, S1 dulu ngulang|
 |1| [Dzaky](https://github.com/dzakyadlh) | | |
 |2| [Adam](https://github.com/AdamM1-36) | | |
 |3| [Hanin](https://github.com/haninsyamsi036) | | |

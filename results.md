@@ -26,6 +26,10 @@
 |21| [MRifan](https://github.com/muhammadrifan2828) | | |
 |22| [RizkiAkbar](https://github.com/RizkiAkbar12) | | |
 |23| [Dhamas](https://github.com/Dhamas1902) | | |
+|24| [Therzaghy](https://github.com/harrytherzaghy) | | |
+|25| [Francisco](https://github.com/FranciscoReza) | | |
+|26| [AlfaNaufal](https://github.com/lavarrezel) | | |
+
 
 
 

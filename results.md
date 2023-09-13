@@ -29,6 +29,8 @@
 |24| [Therzaghy](https://github.com/harrytherzaghy) | | |
 |25| [Francisco](https://github.com/FranciscoReza) | | |
 |26| [AlfaNaufal](https://github.com/lavarrezel) | | |
+|27| [Julio](https://github.com/JulioMaulana) | | |
+|28| [BennySim](https://github.com/bensmtpng) | | |
 
 
 

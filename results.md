@@ -4,7 +4,7 @@
 |:--:|:--------------:|:---------------------:|:-------------:|
 |0| [Achmadi](https://github.com/mekatronik-achmadi/) | [Tugas](https://github.com/mekatronik-achmadi/tugas-sinyal) | Example, S1 dulu ngulang |
 |1| [Dzaky](https://github.com/dzakyadlh) | | |
-|2| [Adam](https://github.com/AdamM1-36) | [Tugas](https://github.com/AdamM1-36/tugas-sinyal) | Lanjutkan |
+|2| [Adam](https://github.com/AdamM1-36) | [Tugas](https://github.com/AdamM1-36/tugas-sinyal) | Belum buat skrip sendiri |
 |3| [Hanin](https://github.com/haninsyamsi036) | | |
 |4| [Rasyid](https://github.com/rsydfddn) | [Tugas](https://github.com/rsydfddn/tugas-sinyal) | Kosong |
 |5| [Raka](https://github.com/rakamusalim) | [Tugas](https://github.com/rakamusalim/tugas-sinyal) | Kosong |

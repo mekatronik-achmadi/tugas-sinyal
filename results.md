@@ -6,11 +6,11 @@
 |1| [Dzaky](https://github.com/dzakyadlh) | | |
 |2| [Adam](https://github.com/AdamM1-36) | [Tugas](https://github.com/AdamM1-36/tugas-sinyal) | Lanjutkan |
 |3| [Hanin](https://github.com/haninsyamsi036) | | |
-|4| [Rasyid](https://github.com/rsydfddn) | | |
-|5| [Raka](https://github.com/rakamusalim) | | |
-|6| [RafiAndro](https://github.com/RafiAndro) | | |
+|4| [Rasyid](https://github.com/rsydfddn) | [Tugas](https://github.com/rsydfddn/tugas-sinyal) | Kosong |
+|5| [Raka](https://github.com/rakamusalim) | [Tugas](https://github.com/rakamusalim/tugas-sinyal) | Kosong |
+|6| [RafiAndro](https://github.com/RafiAndro) | [Tugas](https://github.com/RafiAndro/Tugas-Sinyal-D) | Perlu Editing |
 |7| [Fahmi](https://github.com/ITStudent123) | | |
-|8| [ArifWardana](https://github.com/arifwardana) | | |
+|8| [ArifWardana](https://github.com/arifwardana) | [Tugas](https://github.com/ArifWardana/PSOPythonArifWr) | Belum Lengkap |
 |9| [Syahrul](https://github.com/Syahrulwhyd) | | |
 |10| [Alfonsus](https://github.com/Alfonsus-Enrico) | | |
 |11| [NadyaP](https://github.com/Nonaminggumerah) | | |

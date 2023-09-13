@@ -31,6 +31,8 @@
 |26| [AlfaNaufal](https://github.com/lavarrezel) | [Tugas](https://github.com/lavarrezel/tugas-sinyal-1) | Kosong |
 |27| [Julio](https://github.com/JulioMaulana) | | |
 |28| [BennySim](https://github.com/bensmtpng) | | |
+|29| [Oscar](https://github.com/OscarID) | | |
+|30| [Adhim](https://github.com/Dhimmmmr) | | |
 
 
 

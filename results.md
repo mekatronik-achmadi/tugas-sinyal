@@ -2,9 +2,9 @@
 
 | No | Github Account | Assignment Repository | Notes/Critics |
 |:--:|:--------------:|:---------------------:|:-------------:|
-|0| [Achmadi](https://github.com/mekatronik-achmadi/) | [Tugas-Sinyal](https://github.com/mekatronik-achmadi/tugas-sinyal) | Example, S1 dulu ngulang |
+|0| [Achmadi](https://github.com/mekatronik-achmadi/) | [Tugas](https://github.com/mekatronik-achmadi/tugas-sinyal) | Example, S1 dulu ngulang |
 |1| [Dzaky](https://github.com/dzakyadlh) | | |
-|2| [Adam](https://github.com/AdamM1-36) | | |
+|2| [Adam](https://github.com/AdamM1-36) | [Tugas](https://github.com/AdamM1-36/tugas-sinyal) | Lanjutkan |
 |3| [Hanin](https://github.com/haninsyamsi036) | | |
 |4| [Rasyid](https://github.com/rsydfddn) | | |
 |5| [Raka](https://github.com/rakamusalim) | | |
@@ -16,10 +16,10 @@
 |11| [NadyaP](https://github.com/Nonaminggumerah) | | |
 |12| [Ghazi](https://github.com/gap125) | | |
 |13| [Pradipta](https://github.com/Pradipta07) | | |
-|14| [Farrel](https://github.com/FarrelFasyaWisnugroho) | [Tugas-Sinyal-1](https://github.com/FarrelFasyaWisnugroho/Tugas-Sinyal-1/) | Belum Lengkap, Upload tanpa git-push |
+|14| [Farrel](https://github.com/FarrelFasyaWisnugroho) | [Tugas](https://github.com/FarrelFasyaWisnugroho/Tugas-Sinyal-1/) | Belum Lengkap, Upload tanpa git-push |
 |15| [Virgi](https://github.com/virgi005) | | |
 |16| [MAkbar](https://github.com/MAkbarMZ) | | |
-|17| [AmmarM](https://github.com/ammarmuzhaffar) | [Tugas-Proses-Sinyal](https://github.com/ammarmuzhaffar/Tugas-Proses-Sinyal-dan-Optimisasi-1) | Belum Lengkap, Upload tanpa git-push |
+|17| [AmmarM](https://github.com/ammarmuzhaffar) | [Tugas](https://github.com/ammarmuzhaffar/Tugas-Proses-Sinyal-dan-Optimisasi-1) | Belum Lengkap, Upload tanpa git-push |
 |18| [Ferdika](https://github.com/FerdikaPradana) | | |
 |19| [RubyAlfarizi](https://github.com/RubiAlfa) | | |
 |20| [WendyWi](https://github.com/WendyWibowo05) | | |

@@ -12,12 +12,12 @@
 |7| [Fahmi](https://github.com/ITStudent123) | | |
 |8| [ArifWardana](https://github.com/arifwardana) | [Tugas](https://github.com/ArifWardana/PSOPythonArifWr) | Belum Lengkap |
 |9| [Syahrul](https://github.com/Syahrulwhyd) | | |
-|10| [Alfonsus](https://github.com/Alfonsus-Enrico) | | |
+|10| [Alfonsus](https://github.com/Alfonsus-Enrico) | [Tugas](https://github.com/Alfonsus-Enrico/TugasSinyal) | Perlu Editing |
 |11| [NadyaP](https://github.com/Nonaminggumerah) | | |
-|12| [Ghazi](https://github.com/gap125) | | |
+|12| [Ghazi](https://github.com/gap125) | [Tugas](https://github.com/gap125/tugas-sinyal) | Kosong |
 |13| [Pradipta](https://github.com/Pradipta07) | | |
 |14| [Farrel](https://github.com/FarrelFasyaWisnugroho) | [Tugas](https://github.com/FarrelFasyaWisnugroho/Tugas-Sinyal-1/) | Belum Lengkap, Upload tanpa git-push |
-|15| [Virgi](https://github.com/virgi005) | | |
+|15| [Virgi](https://github.com/virgi005) | [Tugas](https://github.com/virgi005/tugas-Sinyal) | Kosong |
 |16| [MAkbar](https://github.com/MAkbarMZ) | | |
 |17| [AmmarM](https://github.com/ammarmuzhaffar) | [Tugas](https://github.com/ammarmuzhaffar/Tugas-Proses-Sinyal-dan-Optimisasi-1) | Belum Lengkap, Upload tanpa git-push |
 |18| [Ferdika](https://github.com/FerdikaPradana) | | |

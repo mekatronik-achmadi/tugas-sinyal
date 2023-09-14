@@ -33,6 +33,13 @@
 |28| [BennySim](https://github.com/bensmtpng) | | |
 |29| [Oscar](https://github.com/OscarID) | | |
 |30| [Adhim](https://github.com/Dhimmmmr) | | |
+|31| [Dhea](https://github.com/dheatirtaa) | | |
+|32| [Azhrella](https://github.com/Azhrella) | [Tugas](https://github.com/Azhrella/tugas-sinyal) | Selesai |
+|33| [Zanar](https://github.com/Zanarkandd) | [Tugas](https://github.com/Zanarkandd/tugas-sinyal) | Kosong |
+|34| [Rezi](https://github.com/rezira24) | | |
+
+
+
 
 
 

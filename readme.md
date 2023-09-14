@@ -52,7 +52,7 @@ Python Scipt: https://github.com/mekatronik-achmadi/tugas-sinyal/blob/main/signa
 
 ### E. Result Restrictions
 - Implementing any Signal Processing like Filtering, FFT, Convolution/Modulation, etc.
-- Only use Numpy and Matplotlib modules.
+- Only use Numpy. SciPy, and Matplotlib modules.
 - No verbatim copies from other's work.
 - Just do the best you can.
 	+ Life is hard.

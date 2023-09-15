@@ -19,22 +19,22 @@
 |14| [Farrel](https://github.com/FarrelFasyaWisnugroho) | [Tugas](https://github.com/FarrelFasyaWisnugroho/Tugas-Sinyal-1/) | Belum Lengkap, Upload tanpa git-push | |
 |15| [Virgi](https://github.com/virgi005) | [Tugas](https://github.com/virgi005/tugas-Sinyal) | Selesai | A |
 |16| [MAkbar](https://github.com/MAkbarMZ) | [Tugas](https://github.com/MAkbarMZ/TugasSignalProcessing) | Masih pakai skrip contoh | |
-|17| [AmmarM](https://github.com/ammarmuzhaffar) | [Tugas](https://github.com/ammarmuzhaffar/Tugas-Proses-Sinyal-dan-Optimisasi-1) | Selesai, Upload tanpa git-push | C |
+|17| [AmmarM](https://github.com/ammarmuzhaffar) | [Tugas](https://github.com/ammarmuzhaffar/Tugas-Proses-Sinyal-dan-Optimisasi-1) | Selesai, Upload tanpa git-push | B |
 |18| [Ferdika](https://github.com/FerdikaPradana) | [Tugas](https://github.com/FerdikaPradana/tugas-sinyal-1) | Selesai | A |
 |19| [RubyAlfarizi](https://github.com/RubiAlfa) | | | |
-|20| [WendyWi](https://github.com/WendyWibowo05) | [Tugas](https://github.com/WendyWibowo05/Tugas-Sinyal) | Selesai | |
+|20| [WendyWi](https://github.com/WendyWibowo05) | [Tugas](https://github.com/WendyWibowo05/Tugas-Sinyal) | Selesai | A |
 |21| [MRifan](https://github.com/muhammadrifan2828) | [Tugas](https://github.com/muhammadrifan2828/tugas-sinyal) | Belum Lengkap | |
-|22| [RizkiAkbar](https://github.com/RizkiAkbar12) | [Tugas](https://github.com/RizkiAkbar12/Tugas-SPO) | Selesai | |
+|22| [RizkiAkbar](https://github.com/RizkiAkbar12) | [Tugas](https://github.com/RizkiAkbar12/Tugas-SPO) | Selesai | B |
 |23| [Dhamas](https://github.com/Dhamas1902) | | | |
-|24| [Therzaghy](https://github.com/harrytherzaghy) | [Tugas](https://github.com/harrytherzaghy/Tugas-PSO) | Selesai | |
+|24| [Therzaghy](https://github.com/harrytherzaghy) | [Tugas](https://github.com/harrytherzaghy/Tugas-PSO) | Selesai | B |
 |25| [Francisco](https://github.com/FranciscoReza) | [Tugas](https://github.com/FranciscoReza/Tugas) | Kosong | |
-|26| [AlfaNaufal](https://github.com/lavarrezel) | [Tugas](https://github.com/lavarrezel/tugas-sinyal-1) | Selesai | |
+|26| [AlfaNaufal](https://github.com/lavarrezel) | [Tugas](https://github.com/lavarrezel/tugas-sinyal-1) | Selesai | A |
 |27| [Julio](https://github.com/JulioMaulana) | | | |
 |28| [BennySim](https://github.com/bensmtpng) | [Tugas](https://github.com/bensmtpng/TugasSinyal) | Kosong | |
 |29| [Oscar](https://github.com/OscarID) | [Tugas](https://github.com/OscarID/Tugas-Sinyal) | Kosong | |
 |30| [Adhim](https://github.com/Dhimmmmr) | | | |
 |31| [Dhea](https://github.com/dheatirtaa) | | | |
-|32| [Azhrella](https://github.com/Azhrella) | [Tugas](https://github.com/Azhrella/tugas-sinyal) | Selesai | |
+|32| [Azhrella](https://github.com/Azhrella) | [Tugas](https://github.com/Azhrella/tugas-sinyal) | Selesai | B |
 |33| [Tio](https://github.com/Zanarkandd) | [Tugas](https://github.com/Zanarkandd/tugas-sinyal) | Kosong | |
 |34| [Rezi](https://github.com/rezira24) | | | |
 |35| [Raihan](https://github.com/lazuraihan) | [Tugas](https://github.com/lazuraihan/tugas-sinyal) | Kosong | |

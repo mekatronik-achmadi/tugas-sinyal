@@ -42,7 +42,7 @@
 |38| [Didit](https://github.com/diditpradipta) | [Tugas](https://github.com/diditpradipta/tugas-sinyal) | Kosong | |
 |39| [Alif](https://github.com/AlifRisyanS) | [Tugas](https://github.com/AlifRisyanS/Signal-Assigment) | Masih pakai skrip contoh | |
 |40| [Azzahra](https://github.com/azzahrns) | [Tugas](https://github.com/azzahrns/tugas-sinyal-) | Kosong | |
-|41| [Muzakky](https://github.com/farelmuzakky) | [Tugas](https://github.com/farelmuzakky/tugas_pso) | | |
+|41| [Muzakky](https://github.com/farelmuzakky) | [Tugas](https://github.com/farelmuzakky/tugas_pso) | Kosong | |
 
 ## Not submit Github Account's URL or Name
 - Ahnaf Farel Muzakky

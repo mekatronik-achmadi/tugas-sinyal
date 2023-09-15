@@ -3,10 +3,10 @@
 | No | Github Account | Assignment Repository | Notes/Critics |
 |:--:|:--------------:|:---------------------:|:-------------:|
 |0| [Achmadi](https://github.com/mekatronik-achmadi/) | [Tugas](https://github.com/mekatronik-achmadi/tugas-sinyal) | Example, S1 dulu ngulang |
-|1| [Dzaky](https://github.com/dzakyadlh) | [Tugas](https://github.com/dzakyadlh/signal-assignment-1) | Selesai,Exa |
-|2| [Adam](https://github.com/AdamM1-36) | [Tugas](https://github.com/AdamM1-36/tugas-sinyal) | Belum buat skrip sendiri |
+|1| [Dzaky](https://github.com/dzakyadlh) | [Tugas](https://github.com/dzakyadlh/signal-assignment-1) | Selesai |
+|2| [Adam](https://github.com/AdamM1-36) | [Tugas](https://github.com/AdamM1-36/tugas-sinyal) | Selesai |
 |3| [Hanin](https://github.com/haninsyamsi036) | [Tugas](https://github.com/haninsyamsi036/Signal-Course) | Selesai |
-|4| [Rasyid](https://github.com/rsydfddn) | [Tugas](https://github.com/rsydfddn/tugas-sinyal) | Kosong |
+|4| [Rasyid](https://github.com/rsydfddn) | [Tugas](https://github.com/rsydfddn/tugas-sinyal) | Selesai |
 |5| [Raka](https://github.com/rakamusalim) | [Tugas](https://github.com/rakamusalim/tugas-sinyal) | Kosong |
 |6| [RafiAndro](https://github.com/RafiAndro) | [Tugas](https://github.com/RafiAndro/Tugas-Sinyal-D) | Belum buat skrip sendiri |
 |7| [Fahmi](https://github.com/ITStudent123) | | |

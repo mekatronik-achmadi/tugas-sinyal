@@ -1,7 +1,5 @@
 # Result Tables
 
-This file last_modified_at:
-
 | No | Github Account | Assignment Repository | Notes/Critics | Work-Tier |
 |:--:|:--------------:|:---------------------:|:-------------:|:-----:|
 |0| [Achmadi](https://github.com/mekatronik-achmadi/) | [Tugas](https://github.com/mekatronik-achmadi/tugas-sinyal) | Example, S1 dulu ngulang | S |

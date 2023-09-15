@@ -42,6 +42,10 @@
 |38| [Didit](https://github.com/diditpradipta) | [Tugas](https://github.com/diditpradipta/tugas-sinyal) | Kosong | |
 |39| [Alif](https://github.com/AlifRisyanS) | [Tugas](https://github.com/AlifRisyanS/Signal-Assigment) | Masih pakai skrip contoh | |
 
+## Not submit Github Account URLs
+- Ahnaf Farel Muzakky
+- Fahmi Fitraturrahim
+
 
 
 

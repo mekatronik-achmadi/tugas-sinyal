@@ -39,8 +39,8 @@
 |34| [Rezi](https://github.com/rezira24) | | | |
 |35| [Raihan](https://github.com/lazuraihan) | [Tugas](https://github.com/lazuraihan/tugas-sinyal) | Kosong | |
 |36| [Fiona](https://github.com/fionasiahaya) | [Tugas](https://github.com/fionasiahaya/tugas-sinyal) | Kosong | |
-
-
+|38| [Didit](https://github.com/diditpradipta) | [Tugas](https://github.com/diditpradipta/tugas-sinyal) | Kosong | |
+|39| [Alif](https://github.com/AlifRisyanS) | [Tugas](https://github.com/AlifRisyanS/Signal-Assigment) | Masih pakai skrip contoh | |
 
 
 

@@ -13,7 +13,7 @@
 |8| [ArifWardana](https://github.com/arifwardana) | [Tugas](https://github.com/ArifWardana/PSOPythonArifWr) | Belum Lengkap |
 |9| [Syahrul](https://github.com/Syahrulwhyd) | | |
 |10| [Alfonsus](https://github.com/Alfonsus-Enrico) | [Tugas](https://github.com/Alfonsus-Enrico/TugasSinyal) | Selesai |
-|11| [NadyaP](https://github.com/Nonaminggumerah) | | |
+|11| [NadyaP](https://github.com/Nonaminggumerah) | [Tugas](https://github.com/Nonaminggumerah/Tugas-1-SPO) | Belum buat skrip sendiri, Upload tanpa git-push |
 |12| [Ghazi](https://github.com/gap125) | [Tugas](https://github.com/gap125/tugas-sinyal) | Kosong |
 |13| [Pradipta](https://github.com/Pradipta07) | | |
 |14| [Farrel](https://github.com/FarrelFasyaWisnugroho) | [Tugas](https://github.com/FarrelFasyaWisnugroho/Tugas-Sinyal-1/) | Belum Lengkap, Upload tanpa git-push |

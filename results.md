@@ -14,8 +14,8 @@
 |9| [Syahrul](https://github.com/Syahrulwhyd) | | |
 |10| [Alfonsus](https://github.com/Alfonsus-Enrico) | [Tugas](https://github.com/Alfonsus-Enrico/TugasSinyal) | Selesai |
 |11| [NadyaP](https://github.com/Nonaminggumerah) | [Tugas](https://github.com/Nonaminggumerah/Tugas-1-SPO) | Belum buat skrip sendiri, Upload tanpa git-push |
-|12| [Ghazi](https://github.com/gap125) | [Tugas](https://github.com/gap125/tugas-sinyal) | Kosong |
-|13| [Pradipta](https://github.com/Pradipta07) | | |
+|12| [Ghazi](https://github.com/gap125) | [Tugas](https://github.com/gap125/tugas-sinyal) | Selesai |
+|13| [Pradipta](https://github.com/Pradipta07) | [Tugas](https://github.com/Pradipta07/Tugas-PSO) | Belum buat skrip sendiri |
 |14| [Farrel](https://github.com/FarrelFasyaWisnugroho) | [Tugas](https://github.com/FarrelFasyaWisnugroho/Tugas-Sinyal-1/) | Belum Lengkap, Upload tanpa git-push |
 |15| [Virgi](https://github.com/virgi005) | [Tugas](https://github.com/virgi005/tugas-Sinyal) | Kosong |
 |16| [MAkbar](https://github.com/MAkbarMZ) | [Tugas](https://github.com/MAkbarMZ/TugasProcessSignal1) | Kosong |

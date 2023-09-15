@@ -8,11 +8,11 @@
 |3| [Hanin](https://github.com/haninsyamsi036) | [Tugas](https://github.com/haninsyamsi036/Signal-Course) | Selesai |
 |4| [Rasyid](https://github.com/rsydfddn) | [Tugas](https://github.com/rsydfddn/tugas-sinyal) | Selesai |
 |5| [Raka](https://github.com/rakamusalim) | [Tugas](https://github.com/rakamusalim/tugas-sinyal) | Kosong |
-|6| [RafiAndro](https://github.com/RafiAndro) | [Tugas](https://github.com/RafiAndro/Tugas-Sinyal-D) | Belum buat skrip sendiri |
-|7| [Fahmi](https://github.com/ITStudent123) | | |
+|6| [RafiAndro](https://github.com/RafiAndro) | [Tugas](https://github.com/RafiAndro/Tugas-1) | Selesai |
+|7| [Fahmi](https://github.com/ITStudent123) | [Tugas](https://github.com/ITStudent123/tugas-sinyal) | Kosong |
 |8| [ArifWardana](https://github.com/arifwardana) | [Tugas](https://github.com/ArifWardana/PSOPythonArifWr) | Belum Lengkap |
 |9| [Syahrul](https://github.com/Syahrulwhyd) | | |
-|10| [Alfonsus](https://github.com/Alfonsus-Enrico) | [Tugas](https://github.com/Alfonsus-Enrico/TugasSinyal) | Belum buat skrip sendiri |
+|10| [Alfonsus](https://github.com/Alfonsus-Enrico) | [Tugas](https://github.com/Alfonsus-Enrico/TugasSinyal) | Selesai |
 |11| [NadyaP](https://github.com/Nonaminggumerah) | | |
 |12| [Ghazi](https://github.com/gap125) | [Tugas](https://github.com/gap125/tugas-sinyal) | Kosong |
 |13| [Pradipta](https://github.com/Pradipta07) | | |

@@ -45,7 +45,6 @@
 |41| [Muzakky](https://github.com/farelmuzakky) | 5009201003 | [Tugas](https://github.com/farelmuzakky/tugas_pso) | Kosong | |
 
 ## Not submit Github Account's URL or Name
-- Ahnaf Farel Muzakky
 - Fahmi Fitraturrahim
 
 

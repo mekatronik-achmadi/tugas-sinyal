@@ -20,9 +20,9 @@
 |15| [Virgi](https://github.com/virgi005) | [Tugas](https://github.com/virgi005/tugas-Sinyal) | Selesai |
 |16| [MAkbar](https://github.com/MAkbarMZ) | [Tugas](https://github.com/MAkbarMZ/TugasSignalProcessing) | Masih pakai skrip contoh |
 |17| [AmmarM](https://github.com/ammarmuzhaffar) | [Tugas](https://github.com/ammarmuzhaffar/Tugas-Proses-Sinyal-dan-Optimisasi-1) | Selesai |
-|18| [Ferdika](https://github.com/FerdikaPradana) | | |
+|18| [Ferdika](https://github.com/FerdikaPradana) | [Tugas](https://github.com/FerdikaPradana/tugas-sinyal-1) | Selesai |
 |19| [RubyAlfarizi](https://github.com/RubiAlfa) | | |
-|20| [WendyWi](https://github.com/WendyWibowo05) | | |
+|20| [WendyWi](https://github.com/WendyWibowo05) | [Tugas](https://github.com/WendyWibowo05/Tugas-Sinyal) | Selesai |
 |21| [MRifan](https://github.com/muhammadrifan2828) | | |
 |22| [RizkiAkbar](https://github.com/RizkiAkbar12) | [Tugas](https://github.com/RizkiAkbar12/Tugas-SPO) | Masih pakai skrip contoh |
 |23| [Dhamas](https://github.com/Dhamas1902) | | |

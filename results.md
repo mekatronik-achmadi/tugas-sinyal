@@ -44,7 +44,7 @@
 |40| [Azzahra](https://github.com/azzahrns) | 5009201073 | [Tugas](https://github.com/azzahrns/tugas-sinyal-) | No Screenshot | B |
 |41| [Muzakky](https://github.com/farelmuzakky) | 5009201003 | [Tugas](https://github.com/farelmuzakky/tugas_pso) | Done | A |
 |42| [Ijal](https://github.com/Aesir39) | 5009201014 | [Tugas](https://github.com/Aesir39/Tugas_PSO) | Done | A |
-|43| [FitKus](https://github.com/fitriakusuma7) | 5009201044 | [Tugas](https://github.com/fitriakusuma7/tugasPSO) | Done | A |
+|43| [FitKus](https://github.com/fitriakusuma7) | 5009201044 | [Tugas](https://github.com/fitriakusuma7/tugasPSO) | Done, No Readme | AB |
 
 
 ## Not submit Github Account's URL or Name

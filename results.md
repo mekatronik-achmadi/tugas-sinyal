@@ -25,11 +25,11 @@
 |20| [WendyWi](https://github.com/WendyWibowo05) | 5009211115 | [Tugas](https://github.com/WendyWibowo05/Tugas-Sinyal) | Done | A |
 |21| [MRifan](https://github.com/muhammadrifan2828) | 5009211138 | [Tugas](https://github.com/muhammadrifan2828/tugas-sinyal) | Done | A |
 |22| [RizkiAkbar](https://github.com/RizkiAkbar12) | 5009211128 | [Tugas](https://github.com/RizkiAkbar12/Tugas-SPO) | Done | A |
-|23| [Dhamas](https://github.com/Dhamas1902) | 5009201069 | [Tugas](https://github.com/Dhamas1902/dhamas) | No Python | C |
+|23| [Dhamas](https://github.com/Dhamas1902) | 5009201069 | [Tugas](https://github.com/Dhamas1902/dhamas) | No Python | BC |
 |24| [Therzaghy](https://github.com/harrytherzaghy) | 5009211114 | [Tugas](https://github.com/harrytherzaghy/Tugas-PSO) | Done, No Readme | AB |
-|25| [Francisco](https://github.com/FranciscoReza) | 5009201070 | [Tugas](https://github.com/FranciscoReza/Tugas) | No Python | C |
+|25| [Francisco](https://github.com/FranciscoReza) | 5009201070 | [Tugas](https://github.com/FranciscoReza/Tugas) | No Python | BC |
 |26| [AlfaNaufal](https://github.com/lavarrezel) | 5009211062 | [Tugas](https://github.com/lavarrezel/tugas-sinyal-1) | Done | A |
-|27| [Julio](https://github.com/JulioMaulana) | 5009211144 | [Tugas](https://github.com/JulioMaulana/tugas-sinyal) | No Result Screenshot | B |
+|27| [Julio](https://github.com/JulioMaulana) | 5009211144 | [Tugas](https://github.com/JulioMaulana/tugas-sinyal) | No Own Script Screenshot | B |
 |28| [BennySim](https://github.com/bensmtpng) | 5009211051 | [Tugas](https://github.com/bensmtpng/TugasSinyal) | Done | A |
 |29| [Oscar](https://github.com/OscarID) | 5009211064 | [Tugas](https://github.com/OscarID/Tugas-Sinyal) | Done | A |
 |30| [Adhim](https://github.com/Dhimmmmr) | 5009211145 | [Tugas](https://github.com/Dhimmmmr/TugasSinyal) | Done | A |
@@ -37,14 +37,14 @@
 |32| [Azhrella](https://github.com/Azhrella) | 5009211009 | [Tugas](https://github.com/Azhrella/Tugas-SPO) | Done, No Readme | AB |
 |33| [Tio](https://github.com/Zanarkandd) | 5009211112 | [Tugas](https://github.com/Zanarkandd/tugas-sinyal) | Done | A |
 |34| [Rezi](https://github.com/rezira24) | 5009211024 | [Tugas](https://github.com/rezira24/tugas-sinyal) | Done | A |
-|35| [Raihan](https://github.com/lazuraihan) | 5009201006 | [Tugas](https://github.com/lazuraihan/tugas-sinyal) | Kosong | |
-|36| [Fiona](https://github.com/fionasiahaya) | 5009201067 | [Tugas](https://github.com/fionasiahaya/tugas-sinyal) | Kosong | |
-|38| [Didit](https://github.com/diditpradipta) | 5009211013 | [Tugas](https://github.com/diditpradipta/tugas-sinyal) | Kosong | |
-|39| [Alif](https://github.com/AlifRisyanS) | 5009201071 | [Tugas](https://github.com/AlifRisyanS/Signal-Assigment) | Masih pakai skrip contoh | |
-|40| [Azzahra](https://github.com/azzahrns) | 5009201073 | [Tugas](https://github.com/azzahrns/tugas-sinyal-) | Kosong | |
-|41| [Muzakky](https://github.com/farelmuzakky) | 5009201003 | [Tugas](https://github.com/farelmuzakky/tugas_pso) | Kosong | |
-|42| [Ijal](https://github.com/Aesir39) | 5009201014 | | | |
-|43| [FitKus](https://github.com/fitriakusuma7) | 5009201044 | | | |
+|35| [Raihan](https://github.com/lazuraihan) | 5009201006 | [Tugas](https://github.com/lazuraihan/tugas-sinyal) | Done | A |
+|36| [Fiona](https://github.com/fionasiahaya) | 5009201067 | [Tugas](https://github.com/fionasiahaya/tugas-sinyal) | No Screenshoot | B |
+|38| [Didit](https://github.com/diditpradipta) | 5009211013 | [Tugas](https://github.com/diditpradipta/tugas-sinyal) | Done, No Readme | AB |
+|39| [Alif](https://github.com/AlifRisyanS) | 5009201071 | [Tugas](https://github.com/AlifRisyanS/Signal-Assigment) | Done | A |
+|40| [Azzahra](https://github.com/azzahrns) | 5009201073 | [Tugas](https://github.com/azzahrns/tugas-sinyal-) | No Screenshot | B |
+|41| [Muzakky](https://github.com/farelmuzakky) | 5009201003 | [Tugas](https://github.com/farelmuzakky/tugas_pso) | Done | A |
+|42| [Ijal](https://github.com/Aesir39) | 5009201014 | [Tugas](https://github.com/Aesir39/Tugas_PSO) | Done | A |
+|43| [FitKus](https://github.com/fitriakusuma7) | 5009201044 | [Tugas](https://github.com/fitriakusuma7/tugasPSO) | Done | A |
 
 
 ## Not submit Github Account's URL or Name

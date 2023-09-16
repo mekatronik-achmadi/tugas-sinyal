@@ -13,12 +13,12 @@
 |8| [ArifWardana](https://github.com/arifwardana) | 5009211030 | [Tugas](https://github.com/ArifWardana/lnltegralof) | Done | A |
 |9| [Syahrul](https://github.com/Syahrulwhyd) | 5009211098 | [Tugas](https://github.com/Syahrulwhyd/tugas-sinyal-1) | Done | A |
 |10| [Alfonsus](https://github.com/Alfonsus-Enrico) | 5009211012 | [Tugas](https://github.com/Alfonsus-Enrico/TugasSinyal) | Done | A |
-|11| [NadyaP](https://github.com/Nonaminggumerah) | 5009211079| [Tugas](https://github.com/Nonaminggumerah/PSO-Tugas-) | Done, Minimal | AB |
+|11| [NadyaP](https://github.com/Nonaminggumerah) | 5009211079| [Tugas](https://github.com/Nonaminggumerah/PSO-Tugas-) | Done, No Readme | AB |
 |12| [Ghazi](https://github.com/gap125) | 5009211010 | [Tugas](https://github.com/gap125/tugas-sinyal) | Done | A |
 |13| [Pradipta](https://github.com/Pradipta07) | 5009211142 | [Tugas](https://github.com/Pradipta07/Tugas-PSO) | Done | A |
-|14| [Farrel](https://github.com/FarrelFasyaWisnugroho) | 5009201066 | [Tugas](https://github.com/FarrelFasyaWisnugroho/Tugas-Sinyal-1/) | Done, Minimal | AB |
+|14| [Farrel](https://github.com/FarrelFasyaWisnugroho) | 5009201066 | [Tugas](https://github.com/FarrelFasyaWisnugroho/Tugas-Sinyal-1/) | Done, No Readme | AB |
 |15| [Virgi](https://github.com/virgi005) | 5009211008 | [Tugas](https://github.com/virgi005/tugas-Sinyal) | Done | A |
-|16| [MAkbar](https://github.com/MAkbarMZ) | 5009211004 | [Tugas](https://github.com/MAkbarMZ/TugasSignalProcessing) | Done, Minimal | AB |
+|16| [MAkbar](https://github.com/MAkbarMZ) | 5009211004 | [Tugas](https://github.com/MAkbarMZ/TugasPSO) | Done, No Readme | AB |
 |17| [AmmarM](https://github.com/ammarmuzhaffar) | 5009201074 | [Tugas](https://github.com/ammarmuzhaffar/Tugas-Proses-Sinyal-dan-Optimisasi-1) | Done | AB |
 |18| [Ferdika](https://github.com/FerdikaPradana) | 5009211026 | [Tugas](https://github.com/FerdikaPradana/tugas-sinyal-1) | Done | A |
 |19| [RubyAlfarizi](https://github.com/RubiAlfa) | 02311942000002 | [Tugas](https://github.com/RubiAlfa/projeksinyal) | Done  | A |
@@ -26,7 +26,7 @@
 |21| [MRifan](https://github.com/muhammadrifan2828) | 5009211138 | [Tugas](https://github.com/muhammadrifan2828/tugas-sinyal) | Done | A |
 |22| [RizkiAkbar](https://github.com/RizkiAkbar12) | 5009211128 | [Tugas](https://github.com/RizkiAkbar12/Tugas-SPO) | Done | A |
 |23| [Dhamas](https://github.com/Dhamas1902) | 5009201069 | [Tugas](https://github.com/Dhamas1902/dhamas) | No Python | C |
-|24| [Therzaghy](https://github.com/harrytherzaghy) | 5009211114 | [Tugas](https://github.com/harrytherzaghy/Tugas-PSO) | Done, Minimal | AB |
+|24| [Therzaghy](https://github.com/harrytherzaghy) | 5009211114 | [Tugas](https://github.com/harrytherzaghy/Tugas-PSO) | Done, No Readme | AB |
 |25| [Francisco](https://github.com/FranciscoReza) | 5009201070 | [Tugas](https://github.com/FranciscoReza/Tugas) | No Python | C |
 |26| [AlfaNaufal](https://github.com/lavarrezel) | 5009211062 | [Tugas](https://github.com/lavarrezel/tugas-sinyal-1) | Done | A |
 |27| [Julio](https://github.com/JulioMaulana) | 5009211144 | [Tugas](https://github.com/JulioMaulana/tugas-sinyal) | No Result Screenshot | B |
@@ -34,9 +34,9 @@
 |29| [Oscar](https://github.com/OscarID) | 5009211064 | [Tugas](https://github.com/OscarID/Tugas-Sinyal) | Done | A |
 |30| [Adhim](https://github.com/Dhimmmmr) | 5009211145 | [Tugas](https://github.com/Dhimmmmr/TugasSinyal) | Done | A |
 |31| [Dhea](https://github.com/dheatirtaa) | 5009201030 | [Tugas](https://github.com/dheatirtaa/tugas-PSO) | Done | A |
-|32| [Azhrella](https://github.com/Azhrella) | 5009211009 | [Tugas](https://github.com/Azhrella/Tugas-SPO) | Done | AB |
-|33| [Tio](https://github.com/Zanarkandd) | 5009211112 | [Tugas](https://github.com/Zanarkandd/tugas-sinyal) | Kosong | |
-|34| [Rezi](https://github.com/rezira24) | 5009211024 | | |
+|32| [Azhrella](https://github.com/Azhrella) | 5009211009 | [Tugas](https://github.com/Azhrella/Tugas-SPO) | Done, No Readme | AB |
+|33| [Tio](https://github.com/Zanarkandd) | 5009211112 | [Tugas](https://github.com/Zanarkandd/tugas-sinyal) | Done | A |
+|34| [Rezi](https://github.com/rezira24) | 5009211024 | [Tugas](https://github.com/rezira24/tugas-sinyal) | Done | A |
 |35| [Raihan](https://github.com/lazuraihan) | 5009201006 | [Tugas](https://github.com/lazuraihan/tugas-sinyal) | Kosong | |
 |36| [Fiona](https://github.com/fionasiahaya) | 5009201067 | [Tugas](https://github.com/fionasiahaya/tugas-sinyal) | Kosong | |
 |38| [Didit](https://github.com/diditpradipta) | 5009211013 | [Tugas](https://github.com/diditpradipta/tugas-sinyal) | Kosong | |

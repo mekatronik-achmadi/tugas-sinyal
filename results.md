@@ -7,10 +7,10 @@
 |2| [Adam](https://github.com/AdamM1-36) | 5009211069 | [Tugas](https://github.com/AdamM1-36/tugas-sinyal) | Selesai | A |
 |3| [Hanin](https://github.com/haninsyamsi036) | 5009211036 | [Tugas](https://github.com/haninsyamsi036/Signal-Course) | Selesai | A |
 |4| [Rasyid](https://github.com/rsydfddn) | 5009211137 | [Tugas](https://github.com/rsydfddn/tugas-sinyal) | Selesai | A |
-|5| [Raka](https://github.com/rakamusalim) | 5009201016 | [Tugas](https://github.com/rakamusalim/tugas-sinyal) | Kosong | |
-|6| [RafiAndro](https://github.com/RafiAndro) | 5009211001 | [Tugas](https://github.com/RafiAndro/Tugas-1) | Selesai | B |
-|7| [Fahmi](https://github.com/ITStudent123) | 5009211007 | [Tugas](https://github.com/ITStudent123/tugas-sinyal) | Kosong | |
-|8| [ArifWardana](https://github.com/arifwardana) | 5009211030 | [Tugas](https://github.com/ArifWardana/PSOPythonArifWr) | Belum Lengkap | |
+|5| [Raka](https://github.com/rakamusalim) | 5009201016 | [Tugas](https://github.com/rakamusalim/tugas-sinyal) | Selesai, Tidak git-push | A |
+|6| [RafiAndro](https://github.com/RafiAndro) | 5009211001 | [Tugas](https://github.com/RafiAndro/Tugas-1) | Selesai | A |
+|7| [Fahmi](https://github.com/ITStudent123) | 5009211007 | [Tugas](https://github.com/ITStudent123/tugas-sinyal) | Selesai, Tidak git-push | A |
+|8| [ArifWardana](https://github.com/arifwardana) | 5009211030 | [Tugas](https://github.com/ArifWardana/lnltegralof) | Selesai | A |
 |9| [Syahrul](https://github.com/Syahrulwhyd) | 5009211098 | | | |
 |10| [Alfonsus](https://github.com/Alfonsus-Enrico) | 5009211012 | [Tugas](https://github.com/Alfonsus-Enrico/TugasSinyal) | Selesai | A |
 |11| [NadyaP](https://github.com/Nonaminggumerah) | 5009211079| [Tugas](https://github.com/Nonaminggumerah/Tugas-1-SPO) | Masih pakai skrip contoh, Tidak git-push | |

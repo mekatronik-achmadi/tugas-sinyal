@@ -7,15 +7,15 @@
 |2| [Adam](https://github.com/AdamM1-36) | 5009211069 | [Tugas](https://github.com/AdamM1-36/tugas-sinyal) | Selesai | A |
 |3| [Hanin](https://github.com/haninsyamsi036) | 5009211036 | [Tugas](https://github.com/haninsyamsi036/Signal-Course) | Selesai | A |
 |4| [Rasyid](https://github.com/rsydfddn) | 5009211137 | [Tugas](https://github.com/rsydfddn/tugas-sinyal) | Selesai | A |
-|5| [Raka](https://github.com/rakamusalim) | 5009201016 | [Tugas](https://github.com/rakamusalim/tugas-sinyal) | Selesai, Tidak git-push | A |
+|5| [Raka](https://github.com/rakamusalim) | 5009201016 | [Tugas](https://github.com/rakamusalim/tugas-sinyal) | Selesai | A |
 |6| [RafiAndro](https://github.com/RafiAndro) | 5009211001 | [Tugas](https://github.com/RafiAndro/Tugas-1) | Selesai | A |
-|7| [Fahmi](https://github.com/ITStudent123) | 5009211007 | [Tugas](https://github.com/ITStudent123/tugas-sinyal) | Selesai, Tidak git-push | A |
+|7| [Fahmi](https://github.com/ITStudent123) | 5009211007 | [Tugas](https://github.com/ITStudent123/tugas-sinyal) | Selesai | A |
 |8| [ArifWardana](https://github.com/arifwardana) | 5009211030 | [Tugas](https://github.com/ArifWardana/lnltegralof) | Selesai | A |
-|9| [Syahrul](https://github.com/Syahrulwhyd) | 5009211098 | | | |
+|9| [Syahrul](https://github.com/Syahrulwhyd) | 5009211098 | [Tugas](https://github.com/Syahrulwhyd/tugas-sinyal-1) | Selesai | A |
 |10| [Alfonsus](https://github.com/Alfonsus-Enrico) | 5009211012 | [Tugas](https://github.com/Alfonsus-Enrico/TugasSinyal) | Selesai | A |
-|11| [NadyaP](https://github.com/Nonaminggumerah) | 5009211079| [Tugas](https://github.com/Nonaminggumerah/Tugas-1-SPO) | Masih pakai skrip contoh, Tidak git-push | |
+|11| [NadyaP](https://github.com/Nonaminggumerah) | 5009211079| [Tugas](https://github.com/Nonaminggumerah/PSO-Tugas-) | Selesai, Minimal | AB |
 |12| [Ghazi](https://github.com/gap125) | 5009211010 | [Tugas](https://github.com/gap125/tugas-sinyal) | Selesai | A |
-|13| [Pradipta](https://github.com/Pradipta07) | 5009211142 | [Tugas](https://github.com/Pradipta07/Tugas-PSO) | Masih pakai skrip contoh | |
+|13| [Pradipta](https://github.com/Pradipta07) | 5009211142 | [Tugas](https://github.com/Pradipta07/Tugas-PSO) | Selesai | A |
 |14| [Farrel](https://github.com/FarrelFasyaWisnugroho) | 5009201066 | [Tugas](https://github.com/FarrelFasyaWisnugroho/Tugas-Sinyal-1/) | Belum Lengkap, Tidak git-push | |
 |15| [Virgi](https://github.com/virgi005) | 5009211008 | [Tugas](https://github.com/virgi005/tugas-Sinyal) | Selesai | A |
 |16| [MAkbar](https://github.com/MAkbarMZ) | 5009211004 | [Tugas](https://github.com/MAkbarMZ/TugasSignalProcessing) | Masih pakai skrip contoh | |

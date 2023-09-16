@@ -43,6 +43,9 @@
 |39| [Alif](https://github.com/AlifRisyanS) | 5009201071 | [Tugas](https://github.com/AlifRisyanS/Signal-Assigment) | Masih pakai skrip contoh | |
 |40| [Azzahra](https://github.com/azzahrns) | 5009201073 | [Tugas](https://github.com/azzahrns/tugas-sinyal-) | Kosong | |
 |41| [Muzakky](https://github.com/farelmuzakky) | 5009201003 | [Tugas](https://github.com/farelmuzakky/tugas_pso) | Kosong | |
+|42| [Ijal](https://github.com/Aesir39) | 5009201014 | | | |
+|43| [FitKus](https://github.com/fitriakusuma7) | 5009201044 | | | |
+
 
 ## Not submit Github Account's URL or Name
 - Fahmi Fitraturrahim

@@ -25,16 +25,16 @@
 |20| [WendyWi](https://github.com/WendyWibowo05) | 5009211115 | [Tugas](https://github.com/WendyWibowo05/Tugas-Sinyal) | Done | A |
 |21| [MRifan](https://github.com/muhammadrifan2828) | 5009211138 | [Tugas](https://github.com/muhammadrifan2828/tugas-sinyal) | Done | A |
 |22| [RizkiAkbar](https://github.com/RizkiAkbar12) | 5009211128 | [Tugas](https://github.com/RizkiAkbar12/Tugas-SPO) | Done | A |
-|23| [Dhamas](https://github.com/Dhamas1902) | 5009201069 | | |
-|24| [Therzaghy](https://github.com/harrytherzaghy) | 5009211114 | [Tugas](https://github.com/harrytherzaghy/Tugas-PSO) | Done | B |
-|25| [Francisco](https://github.com/FranciscoReza) | 5009201070 | [Tugas](https://github.com/FranciscoReza/Tugas) | Kosong | |
+|23| [Dhamas](https://github.com/Dhamas1902) | 5009201069 | [Tugas](https://github.com/Dhamas1902/dhamas) | No Python | C |
+|24| [Therzaghy](https://github.com/harrytherzaghy) | 5009211114 | [Tugas](https://github.com/harrytherzaghy/Tugas-PSO) | Done, Minimal | AB |
+|25| [Francisco](https://github.com/FranciscoReza) | 5009201070 | [Tugas](https://github.com/FranciscoReza/Tugas) | No Python | C |
 |26| [AlfaNaufal](https://github.com/lavarrezel) | 5009211062 | [Tugas](https://github.com/lavarrezel/tugas-sinyal-1) | Done | A |
-|27| [Julio](https://github.com/JulioMaulana) | 5009211144 | | |
-|28| [BennySim](https://github.com/bensmtpng) | 5009211051 | [Tugas](https://github.com/bensmtpng/TugasSinyal) | Kosong | |
-|29| [Oscar](https://github.com/OscarID) | 5009211064 | [Tugas](https://github.com/OscarID/Tugas-Sinyal) | Kosong | |
-|30| [Adhim](https://github.com/Dhimmmmr) | 5009211145 | | | |
-|31| [Dhea](https://github.com/dheatirtaa) | 5009201030 | | | |
-|32| [Azhrella](https://github.com/Azhrella) | 5009211009 | [Tugas](https://github.com/Azhrella/tugas-sinyal) | Done | B |
+|27| [Julio](https://github.com/JulioMaulana) | 5009211144 | [Tugas](https://github.com/JulioMaulana/tugas-sinyal) | No Result Screenshot | B |
+|28| [BennySim](https://github.com/bensmtpng) | 5009211051 | [Tugas](https://github.com/bensmtpng/TugasSinyal) | Done | A |
+|29| [Oscar](https://github.com/OscarID) | 5009211064 | [Tugas](https://github.com/OscarID/Tugas-Sinyal) | Done | A |
+|30| [Adhim](https://github.com/Dhimmmmr) | 5009211145 | [Tugas](https://github.com/Dhimmmmr/TugasSinyal) | Done | A |
+|31| [Dhea](https://github.com/dheatirtaa) | 5009201030 | [Tugas](https://github.com/dheatirtaa/tugas-PSO) | Done | A |
+|32| [Azhrella](https://github.com/Azhrella) | 5009211009 | [Tugas](https://github.com/Azhrella/Tugas-SPO) | Done | AB |
 |33| [Tio](https://github.com/Zanarkandd) | 5009211112 | [Tugas](https://github.com/Zanarkandd/tugas-sinyal) | Kosong | |
 |34| [Rezi](https://github.com/rezira24) | 5009211024 | | |
 |35| [Raihan](https://github.com/lazuraihan) | 5009201006 | [Tugas](https://github.com/lazuraihan/tugas-sinyal) | Kosong | |

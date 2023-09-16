@@ -16,10 +16,10 @@
 |11| [NadyaP](https://github.com/Nonaminggumerah) | 5009211079| [Tugas](https://github.com/Nonaminggumerah/PSO-Tugas-) | Selesai, Minimal | AB |
 |12| [Ghazi](https://github.com/gap125) | 5009211010 | [Tugas](https://github.com/gap125/tugas-sinyal) | Selesai | A |
 |13| [Pradipta](https://github.com/Pradipta07) | 5009211142 | [Tugas](https://github.com/Pradipta07/Tugas-PSO) | Selesai | A |
-|14| [Farrel](https://github.com/FarrelFasyaWisnugroho) | 5009201066 | [Tugas](https://github.com/FarrelFasyaWisnugroho/Tugas-Sinyal-1/) | Belum Lengkap, Tidak git-push | |
+|14| [Farrel](https://github.com/FarrelFasyaWisnugroho) | 5009201066 | [Tugas](https://github.com/FarrelFasyaWisnugroho/Tugas-Sinyal-1/) | Selesai, Minimal | AB |
 |15| [Virgi](https://github.com/virgi005) | 5009211008 | [Tugas](https://github.com/virgi005/tugas-Sinyal) | Selesai | A |
-|16| [MAkbar](https://github.com/MAkbarMZ) | 5009211004 | [Tugas](https://github.com/MAkbarMZ/TugasSignalProcessing) | Masih pakai skrip contoh | |
-|17| [AmmarM](https://github.com/ammarmuzhaffar) | 5009201074 | [Tugas](https://github.com/ammarmuzhaffar/Tugas-Proses-Sinyal-dan-Optimisasi-1) | Selesai, Tidak git-push | B |
+|16| [MAkbar](https://github.com/MAkbarMZ) | 5009211004 | [Tugas](https://github.com/MAkbarMZ/TugasSignalProcessing) | Selesai, Minimal | AB |
+|17| [AmmarM](https://github.com/ammarmuzhaffar) | 5009201074 | [Tugas](https://github.com/ammarmuzhaffar/Tugas-Proses-Sinyal-dan-Optimisasi-1) | Selesai | AB |
 |18| [Ferdika](https://github.com/FerdikaPradana) | 5009211026 | [Tugas](https://github.com/FerdikaPradana/tugas-sinyal-1) | Selesai | A |
 |19| [RubyAlfarizi](https://github.com/RubiAlfa) | 02311942000002 | | |
 |20| [WendyWi](https://github.com/WendyWibowo05) | 5009211115 | [Tugas](https://github.com/WendyWibowo05/Tugas-Sinyal) | Selesai | A |

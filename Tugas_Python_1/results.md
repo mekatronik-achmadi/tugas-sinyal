@@ -2,7 +2,7 @@
 
 | No | Github Account | NRP |Assignment Repository | Notes/Critics | Work-Tier |
 |:--:|:--------------:|:---:|:---------------------:|:-------------:|:-----:|
-|0| [Achmadi](https://github.com/mekatronik-achmadi/) | 2410100085 | [Tugas](https://github.com/mekatronik-achmadi/tugas-sinyal) | Example, S1 dulu ngulang | S |
+|0| [Achmadi](https://github.com/mekatronik-achmadi/) | 2410100085 | [Tugas](https://github.com/mekatronik-achmadi/tugas-sinyal/tree/main/Tugas_Python_1) | Example, S1 dulu ngulang | S |
 |1| [Dzaky](https://github.com/dzakyadlh) | 5009201005 | [Tugas](https://github.com/dzakyadlh/signal-assignment-1) | Done | A | 
 |2| [Adam](https://github.com/AdamM1-36) | 5009211069 | [Tugas](https://github.com/AdamM1-36/tugas-sinyal) | Done | A |
 |3| [Hanin](https://github.com/haninsyamsi036) | 5009211036 | [Tugas](https://github.com/haninsyamsi036/Signal-Course) | Done | A |

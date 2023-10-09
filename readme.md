@@ -2,4 +2,4 @@
 
 ## List of Assignment
 - [Assignment 1](https://github.com/mekatronik-achmadi/tugas-sinyal/tree/main/Tugas_Python_1): Preparation and Test Run
-- [Assignment 2](): Manual implementation of Convolution, Fourier Series, and Fourier Transform
+- [Assignment 2](): Manual implementation of Convolution

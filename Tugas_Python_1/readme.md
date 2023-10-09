@@ -1,24 +1,24 @@
 # Signal Class Assigment Guides
 
 This repository is an example for assignment.
-You may read through all this guide document or you can just jump into expected result in this [section](https://github.com/mekatronik-achmadi/tugas-sinyal/tree/main#example-result).
+You may read through all this guide document or you can just jump into expected result in this [section](https://github.com/mekatronik-achmadi/tugas-sinyal/tree/main/Tugas_Python_1#example-result).
 
 ## Contents
-- [Result Table](https://github.com/mekatronik-achmadi/tugas-sinyal/tree/main#result-table)
-- [Guides](https://github.com/mekatronik-achmadi/tugas-sinyal/tree/main#guides)
-- [Result Example](https://github.com/mekatronik-achmadi/tugas-sinyal/tree/main#example-result)
+- [Result Table](https://github.com/mekatronik-achmadi/tugas-sinyal/tree/main/Tugas_Python_1/Tugas_Python_1#result-table)
+- [Guides](https://github.com/mekatronik-achmadi/tugas-sinyal/tree/main/Tugas_Python_1#guides)
+- [Result Example](https://github.com/mekatronik-achmadi/tugas-sinyal/tree/main/Tugas_Python_1#example-result)
 
 ---
 
 ## Result Table
 
-Here list of acknowledged and checked work results: [Tables](https://github.com/mekatronik-achmadi/tugas-sinyal/blob/main/results.md).
+Here list of acknowledged and checked work results: [Tables](https://github.com/mekatronik-achmadi/tugas-sinyal/blob/main/Tugas_Python_1/results.md).
 
 ---
 
 ## Guides
 
-Preparation Guidance can be checked [here](https://github.com/mekatronik-achmadi/tugas-sinyal/blob/main/guides.md).
+Preparation Guidance can be checked [here](https://github.com/mekatronik-achmadi/tugas-sinyal/blob/main/Tugas_Python_1/guides.md).
 
 ---
 

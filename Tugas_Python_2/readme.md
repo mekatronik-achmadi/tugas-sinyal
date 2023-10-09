@@ -12,7 +12,15 @@ Here some rules:
 	+ Screenshot the Spyder or Jupyter with name and NRP shown in the image.
 	+ Your original Python script.
 	+ Readme for brief explanation.
+	+ Submission Date will be checked on Github's commit logs.
 - No verbatim copy from others work
 	+ if found, both work will be discarded
 	
-## Result Table
+## Submission Result
+- [Submit Form]()
+- [Result Table](https://github.com/mekatronik-achmadi/tugas-sinyal/blob/main/Tugas_Python_2/results.md)
+
+
+## Example Result
+
+![image](images/tugas_konvolusi.png)

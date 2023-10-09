@@ -4,7 +4,7 @@ This repository is an example for assignment.
 You may read through all this guide document or you can just jump into expected result in this [section](https://github.com/mekatronik-achmadi/tugas-sinyal/tree/main/Tugas_Python_1#example-result).
 
 ## Contents
-- [Result Table](https://github.com/mekatronik-achmadi/tugas-sinyal/tree/main/Tugas_Python_1/Tugas_Python_1#result-table)
+- [Result Table](https://github.com/mekatronik-achmadi/tugas-sinyal/tree/main/Tugas_Python_1#result-table)
 - [Guides](https://github.com/mekatronik-achmadi/tugas-sinyal/tree/main/Tugas_Python_1#guides)
 - [Result Example](https://github.com/mekatronik-achmadi/tugas-sinyal/tree/main/Tugas_Python_1#example-result)
 

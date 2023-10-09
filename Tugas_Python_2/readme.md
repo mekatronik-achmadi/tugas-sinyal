@@ -12,9 +12,9 @@ Here some rules:
 	+ Screenshot the Spyder or Jupyter with name and NRP shown in the image.
 	+ Your original Python script.
 	+ Readme for brief explanation.
-	+ Submission Date will be checked on Github's commit logs.
+	+ Submission date will be checked on Github's commit logs.
 - No verbatim copy from others work
-	+ if found, both work will be discarded
+	+ if found, both work will be discarded.
 	
 ## Submission Result
 - [Submit Form]()
@@ -23,4 +23,4 @@ Here some rules:
 
 ## Example Result
 
-![image](images/tugas_konvolusi.png)
+![image](tugas_konvolusi.png)

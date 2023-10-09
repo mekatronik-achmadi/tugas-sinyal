@@ -25,9 +25,9 @@
 |20| [WendyWi](https://github.com/WendyWibowo05) | 5009211115 | [Tugas](https://github.com/WendyWibowo05/Tugas-Sinyal) | Done | A |
 |21| [MRifan](https://github.com/muhammadrifan2828) | 5009211138 | [Tugas](https://github.com/muhammadrifan2828/tugas-sinyal) | Done | A |
 |22| [RizkiAkbar](https://github.com/RizkiAkbar12) | 5009211128 | [Tugas](https://github.com/RizkiAkbar12/Tugas-SPO) | Done | A |
-|23| [Dhamas](https://github.com/Dhamas1902) | 5009201069 | [Tugas](https://github.com/Dhamas1902/dhamas) | No Python | BC |
+|23| [Dhamas](https://github.com/Dhamas1902) | 5009201069 | [Tugas](https://github.com/Dhamas1902/dhamas) | Other Assignment | - |
 |24| [Therzaghy](https://github.com/harrytherzaghy) | 5009211114 | [Tugas](https://github.com/harrytherzaghy/Tugas-PSO) | Done, No Readme | AB |
-|25| [Francisco](https://github.com/FranciscoReza) | 5009201070 | [Tugas](https://github.com/FranciscoReza/Tugas) | No Python | BC |
+|25| [Francisco](https://github.com/FranciscoReza) | 5009201070 | [Tugas](https://github.com/FranciscoReza/Tugas) | Other Assignment | - |
 |26| [AlfaNaufal](https://github.com/lavarrezel) | 5009211062 | [Tugas](https://github.com/lavarrezel/tugas-sinyal-1) | Done | A |
 |27| [Julio](https://github.com/JulioMaulana) | 5009211144 | [Tugas](https://github.com/JulioMaulana/tugas-sinyal) | No Own Script Screenshot | B |
 |28| [BennySim](https://github.com/bensmtpng) | 5009211051 | [Tugas](https://github.com/bensmtpng/TugasSinyal) | Done | A |

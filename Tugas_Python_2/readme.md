@@ -15,11 +15,14 @@ Here some rules:
 	+ Submission date will be checked on Github's commit logs.
 - No verbatim copy from others work
 	+ if found, both work will be discarded.
-	
+
+---
+
 ## Submission Result
-- [Submit Form]()
+- [Submit Form](https://docs.google.com/forms/d/e/1FAIpQLSf2rh-MH9hFuCRdrGVdAGDormalTQZjabJNwtn7J-OcZohZFQ/viewform)
 - [Result Table](https://github.com/mekatronik-achmadi/tugas-sinyal/blob/main/Tugas_Python_2/results.md)
 
+---
 
 ## Example Result
 

@@ -24,3 +24,5 @@ Here some rules:
 ## Example Result
 
 ![image](tugas_konvolusi.png)
+
+Actual Example of Python Script: [Gist](https://gist.github.com/mekatronik-achmadi/3b740945961aae401cc315ca9d441d9b)

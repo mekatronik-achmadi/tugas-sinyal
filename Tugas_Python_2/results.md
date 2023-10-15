@@ -4,7 +4,7 @@
 |:--:|:---:|:--------------------:|
 |0| 2410100085 | [Tugas](https://github.com/mekatronik-achmadi/tugas-sinyal/tree/main/Tugas_Python_2) |
 |1| 5009211138 | [Tugas](https://github.com/muhammadrifan2828/tugas-sinyal-2) |
-|2| 5009211010 | [Tugas](https://github.com/gap125/Tugas2Sinya) |
+|2| 5009211010 | [Tugas](https://github.com/gap125/Tugas2Sinyal) |
 |3| 5009211051 | [Tugas](https://github.com/bensmtpng/TugasSinyal2) [Tugas](https://github.com/bensmtpng/TugasSinyal3) |
 |4| 5009211062 | [Tugas](https://github.com/lavarrezel/tugas-sinyal-2) |
 |5| 5009211079 | [Tugas](https://github.com/Nonaminggumerah/TUGAS-2-Konvolusi) [Tugas](https://github.com/Nonaminggumerah/Tugas-3) |
